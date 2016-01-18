@@ -1,5 +1,6 @@
 {
   "name": "starwars-names-sitz",
+  "version": "0.0.0-semantically-released",
   "description": "Get random Star Wars names",
   "main": "dist/index.js",
   "scripts": {
